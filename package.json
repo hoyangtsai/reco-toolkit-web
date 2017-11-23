@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-toolkit-web",
-  "version": "0.0.1-beta.2",
+  "version": "0.0.3",
   "description": "web template toolkit for reco cli ",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@tencent/nodinx-utils": "^0.0.2",
-    "@tencent/reco-bin": "^0.0.4",
+    "@tencent/reco-bin": "^0.0.5",
     "autoprefixer": "^6.7.7",
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
