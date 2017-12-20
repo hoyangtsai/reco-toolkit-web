@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-toolkit-web",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "web template toolkit for reco cli ",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "allanyu",
   "license": "MIT",
   "dependencies": {
+    "@tencent/comby-stat-plugin": "^1.0.1",
     "@tencent/nodinx-utils": "^0.0.2",
     "@tencent/reco-bin": ">= 0.2.1",
     "add-asset-html-webpack-plugin": "^2.1.2",
