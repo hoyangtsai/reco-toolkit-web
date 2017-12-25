@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-toolkit-web",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "web template toolkit for reco cli ",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "dependencies": {
     "@tencent/comby-stat-plugin": "^1.0.1",
     "@tencent/nodinx-utils": "^0.0.2",
-    "@tencent/reco-bin": ">= 0.2.1",
+    "@tencent/reco-bin": ">= 0.2.3",
     "add-asset-html-webpack-plugin": "^2.1.2",
     "async-validator": "^1.8.1",
     "autoprefixer": "^6.7.7",
